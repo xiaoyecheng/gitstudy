@@ -1,0 +1,6 @@
+# this is a note
+*.a
+!lib.a
+/TODO
+build/
+doc/*.txt
